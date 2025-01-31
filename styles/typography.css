@@ -1,0 +1,15 @@
+h1 { 
+    font-family: 'PlayfairDisplay';
+    font-size: 40px;
+    font-weight: 300;
+}
+h2 { 
+    font-family: 'Poppins';
+    font-size: 30px;
+    font-weight: 200;
+}
+p {
+    font-family: 'Cruinn';
+    font-size: 20px;
+    font-weight: 200
+}
